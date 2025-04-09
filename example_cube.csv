@@ -1,0 +1,445 @@
+Name,Set,Number,Card Type,Sub Type,Image URL,Cost,Found in API,ID
+Dustox,LOT,28,Pokémon,Grass,https://images.pokemontcg.io/sm8/28.png,$0.37,True,sm8-28
+Sceptile,PRC,8,Pokémon,Grass,https://images.pokemontcg.io/xy5/8.png,$1.32,True,xy5-8
+Victreebel,UNB,15,Pokémon,Grass,https://images.pokemontcg.io/sm10/15.png,$0.32,True,sm10-15
+Kricketune,swsh10,10,Pokémon,Grass,https://images.pokemontcg.io/swsh10/10.png,$0.06,True,swsh10-10
+Leafeon,sv6,11,Pokémon,Grass,https://images.pokemontcg.io/sv6/11.png,$0.11,True,sv6-11
+Parasect,swsh11,5,Pokémon,Grass,https://images.pokemontcg.io/swsh11/5.png,$0.09,True,swsh11-5
+Tangrowth,sv6,2,Pokémon,Grass,https://images.pokemontcg.io/sv6/2.png,$0.02,True,sv6-2
+Venomoth,UNB,11,Pokémon,Grass,https://images.pokemontcg.io/sm10/11.png,$0.4,True,sm10-11
+Weepinbell,BST,2,Pokémon,Grass,https://images.pokemontcg.io/swsh5/2.png,$0.07,True,swsh5-2
+Whimsicott,sv5,15,Pokémon,Grass,https://images.pokemontcg.io/sv5/15.png,$0.05,True,sv5-15
+Carnivine,SLG,6,Pokémon,Grass,https://images.pokemontcg.io/sm35/6.png,$0.13,True,sm35-6
+Carnivine,DAA,5,Pokémon,Grass,https://images.pokemontcg.io/swsh3/5.png,$0.05,True,swsh3-5
+Dhelmise,sv8,10,Pokémon,Grass,https://images.pokemontcg.io/sv8/10.png,$0.05,True,sv8-10
+Kricketot,BKP,5,Pokémon,Grass,https://images.pokemontcg.io/xy9/5.png,$0.14,True,xy9-5
+Shaymin,swsh10,14,Pokémon,Grass,https://images.pokemontcg.io/swsh10/14.png,$0.08,True,swsh10-14
+Shining Celebi,PR-SM,SM79,Pokémon,Grass,https://images.pokemontcg.io/smp/SM79.png,$11.93,True,smp-SM79
+Teal Mask Ogerpon,sv6,24,Pokémon,Grass,https://images.pokemontcg.io/sv6/24.png,$0.07,True,sv6-24
+Tropius,swsh7,6,Pokémon,Grass,https://images.pokemontcg.io/swsh7/6.png,$0.08,True,swsh7-6
+Volbeat,sv6,9,Pokémon,Grass,https://images.pokemontcg.io/sv6/9.png,$0.03,True,sv6-9
+Empoleon,CEC,56,Pokémon,Water,https://images.pokemontcg.io/sm12/56.png,$0.18,True,sm12-56
+Feraligatr,DRM,24,Pokémon,Water,https://images.pokemontcg.io/sm75/24.png,$0.58,True,sm75-24
+Greninja,XY,41,Pokémon,Water,https://images.pokemontcg.io/xy1/41.png,$2.89,True,xy1-41
+Inteleon,swsh6,43,Pokémon,Water,https://images.pokemontcg.io/swsh6/43.png,$0.19,True,swsh6-43
+Kingdra,BST,33,Pokémon,Water,https://images.pokemontcg.io/swsh5/33.png,$0.23,True,swsh5-33
+Swampert,PRC,36,Pokémon,Water,https://images.pokemontcg.io/xy5/36.png,$5.86,True,xy5-36
+Alolan Sandslash,GRI,20,Pokémon,Water,https://images.pokemontcg.io/sm2/20.png,$0.16,True,sm2-20
+Frogadier,FLI,23,Pokémon,Water,https://images.pokemontcg.io/sm6/23.png,$0.31,True,sm6-23
+Froslass,sv6,53,Pokémon,Water,https://images.pokemontcg.io/sv6/53.png,$0.1,True,sv6-53
+Frosmoth,SSH,64,Pokémon,Water,https://images.pokemontcg.io/swsh1/64.png,$0.29,True,swsh1-64
+Gyarados,sv3pt5,130,Pokémon,Water,https://images.pokemontcg.io/sv3pt5/130.png,$0.16,True,sv3pt5-130
+Hisuian Basculegion,swsh11,45,Pokémon,Water,https://images.pokemontcg.io/swsh11/45.png,$0.55,True,swsh11-45
+Milotic,PRC,44,Pokémon,Water,https://images.pokemontcg.io/xy5/44.png,$1.07,True,xy5-44
+Octillery,BKT,33,Pokémon,Water,https://images.pokemontcg.io/xy8/33.png,$3.75,True,xy8-33
+Slowking,BKP,21,Pokémon,Water,https://images.pokemontcg.io/xy9/21.png,$0.37,True,xy9-21
+Starmie,sv3pt5,121,Pokémon,Water,https://images.pokemontcg.io/sv3pt5/121.png,$0.13,True,sv3pt5-121
+Starmie,EVO,31,Pokémon,Water,https://images.pokemontcg.io/xy12/31.png,$0.17,True,xy12-31
+Tentacruel,UNB,41,Pokémon,Water,https://images.pokemontcg.io/sm10/41.png,$0.13,True,sm10-41
+Alolan Vulpix,GRI,21,Pokémon,Water,https://images.pokemontcg.io/sm2/21.png,$0.28,True,sm2-21
+Cryogonal,swsh7,43,Pokémon,Water,https://images.pokemontcg.io/swsh7/43.png,$0.02,True,swsh7-43
+Kyurem,UNB,50,Pokémon,Water,https://images.pokemontcg.io/sm10/50.png,$0.37,True,sm10-50
+Mantine,SSH,52,Pokémon,Water,https://images.pokemontcg.io/swsh1/52.png,$0.09,True,swsh1-52
+Mantyke,sv4,39,Pokémon,Water,https://images.pokemontcg.io/sv4/39.png,$0.06,True,sv4-39
+Suicune,LOT,59,Pokémon,Water,https://images.pokemontcg.io/sm8/59.png,$1.33,True,sm8-59
+Tatsugiri,sv1,62,Pokémon,Water,https://images.pokemontcg.io/sv1/62.png,$0.04,True,sv1-62
+Wishiwashi,swsh7,46,Pokémon,Water,https://images.pokemontcg.io/swsh7/46.png,$0.06,True,swsh7-46
+Blaziken,DAA,24,Pokémon,Fire,https://images.pokemontcg.io/swsh3/24.png,$0.34,True,swsh3-24
+Chandelure,GRI,13,Pokémon,Fire,https://images.pokemontcg.io/sm2/13.png,$0.27,True,sm2-13
+Delphox,XY,26,Pokémon,Fire,https://images.pokemontcg.io/xy1/26.png,$2.06,True,xy1-26
+Emboar,CEC,33,Pokémon,Fire,https://images.pokemontcg.io/sm12/33.png,$0.32,True,sm12-33
+Incineroar,UNB,29,Pokémon,Fire,https://images.pokemontcg.io/sm10/29.png,$0.3,True,sm10-29
+Incineroar,swsh12,32,Pokémon,Fire,https://images.pokemontcg.io/swsh12/32.png,$0.09,True,swsh12-32
+Typhlosion,LOT,42,Pokémon,Fire,https://images.pokemontcg.io/sm8/42.png,$5.46,True,sm8-42
+Armarouge,sv1,41,Pokémon,Fire,https://images.pokemontcg.io/sv1/41.png,$0.06,True,sv1-41
+Armarouge,sv8,34,Pokémon,Fire,https://images.pokemontcg.io/sv8/34.png,$0.06,True,sv8-34
+Darmanitan,DRM,9,Pokémon,Fire,https://images.pokemontcg.io/sm75/9.png,$0.25,True,sm75-9
+Ninetales,TEU,16,Pokémon,Fire,https://images.pokemontcg.io/sm9/16.png,$0.51,True,sm9-16
+Rapidash,swsh12,22,Pokémon,Fire,https://images.pokemontcg.io/swsh12/22.png,$0.18,True,swsh12-22
+Salazzle,UNB,31,Pokémon,Fire,https://images.pokemontcg.io/sm10/31.png,$0.52,True,sm10-31
+Simisear,swsh8,38,Pokémon,Fire,https://images.pokemontcg.io/swsh8/38.png,$0.04,True,swsh8-38
+Blacephalon,UNB,32,Pokémon,Fire,https://images.pokemontcg.io/sm10/32.png,$0.45,True,sm10-32
+Chi-Yu,sv4,29,Pokémon,Fire,https://images.pokemontcg.io/sv4/29.png,$0.1,True,sv4-29
+Entei,sv3,30,Pokémon,Fire,https://images.pokemontcg.io/sv3/30.png,$0.09,True,sv3-30
+Heatmor,swsh8,41,Pokémon,Fire,https://images.pokemontcg.io/swsh8/41.png,$0.08,True,swsh8-41
+Heatran,DAA,25,Pokémon,Fire,https://images.pokemontcg.io/swsh3/25.png,$0.19,True,swsh3-25
+Moltres,swsh9,21,Pokémon,Fire,https://images.pokemontcg.io/swsh9/21.png,$0.15,True,swsh9-21
+Torkoal,CEC,29,Pokémon,Fire,https://images.pokemontcg.io/sm12/29.png,$0.12,True,sm12-29
+Victini,swsh7,20,Pokémon,Fire,https://images.pokemontcg.io/swsh7/20.png,$0.15,True,swsh7-20
+Volcanion,UNB,25,Pokémon,Fire,https://images.pokemontcg.io/sm10/25.png,$0.72,True,sm10-25
+Ampharos,DRX,40,Pokémon,Lightning,https://images.pokemontcg.io/bw6/40.png,$1.95,True,bw6-40
+Ampharos,swsh6,49,Pokémon,Lightning,https://images.pokemontcg.io/swsh6/49.png,$0.08,True,swsh6-49
+Luxray,swsh12pt5,44,Pokémon,Lightning,https://images.pokemontcg.io/swsh12pt5/44.png,$0.07,True,swsh12pt5-44
+Magnezone,PLS,46,Pokémon,Lightning,https://images.pokemontcg.io/bw8/46.png,$2.04,True,bw8-46
+Magnezone,UNM,60,Pokémon,Lightning,https://images.pokemontcg.io/sm11/60.png,$0.41,True,sm11-60
+Vikavolt,RCL,66,Pokémon,Lightning,https://images.pokemontcg.io/swsh2/66.png,$0.26,True,swsh2-66
+Alolan Raichu,UNM,57,Pokémon,Lightning,https://images.pokemontcg.io/sm11/57.png,$1.88,True,sm11-57
+Arctozolt,DAA,66,Pokémon,Lightning,https://images.pokemontcg.io/swsh3/66.png,$0.37,True,swsh3-66
+Eelektrik,NVI,40,Pokémon,Lightning,https://images.pokemontcg.io/bw3/40.png,$1.41,True,bw3-40
+Flaaffy,swsh7,55,Pokémon,Lightning,https://images.pokemontcg.io/swsh7/55.png,$0.16,True,swsh7-55
+Magneton,CEC,69,Pokémon,Lightning,https://images.pokemontcg.io/sm12/69.png,$0.65,True,sm12-69
+Magneton,sv8,59,Pokémon,Lightning,https://images.pokemontcg.io/sv8/59.png,$0.16,True,sv8-59
+Raichu,CEC,67,Pokémon,Lightning,https://images.pokemontcg.io/sm12/67.png,$0.59,True,sm12-67
+Zebstrika,LOT,82,Pokémon,Lightning,https://images.pokemontcg.io/sm8/82.png,$1.27,True,sm8-82
+Zebstrika,sv4,63,Pokémon,Lightning,https://images.pokemontcg.io/sv4/63.png,$0.03,True,sv4-63
+Alolan Geodude,TEU,35,Pokémon,Lightning,https://images.pokemontcg.io/sm9/35.png,$0.15,True,sm9-35
+Emolga,LTR,49,Pokémon,Lightning,https://images.pokemontcg.io/bw11/49.png,$0.21,True,bw11-49
+Joltik,sv7,50,Pokémon,Lightning,https://images.pokemontcg.io/sv7/50.png,$0.08,True,sv7-50
+Minun,sv4,61,Pokémon,Lightning,https://images.pokemontcg.io/sv4/61.png,$0.03,True,sv4-61
+Plusle,CES,53,Pokémon,Lightning,https://images.pokemontcg.io/sm7/53.png,$0.26,True,sm7-53
+Regieleki,swsh10,51,Pokémon,Lightning,https://images.pokemontcg.io/swsh10/51.png,$0.12,True,swsh10-51
+Tapu Koko,DAA,61,Pokémon,Lightning,https://images.pokemontcg.io/swsh3/61.png,$0.23,True,swsh3-61
+Togedemaru,sv7,54,Pokémon,Lightning,https://images.pokemontcg.io/sv7/54.png,$0.03,True,sv7-54
+Xurkitree,FLI,39,Pokémon,Lightning,https://images.pokemontcg.io/sm6/39.png,$0.61,True,sm6-39
+Zeraora,UNB,60,Pokémon,Lightning,https://images.pokemontcg.io/sm10/60.png,$0.3,True,sm10-60
+Alakazam,sv6,82,Pokémon,Psychic,https://images.pokemontcg.io/sv6/82.png,$0.09,True,sv6-82
+Chandelure,NVI,60,Pokémon,Psychic,https://images.pokemontcg.io/bw3/60.png,$10.74,True,bw3-60
+Chandelure,LOT,103,Pokémon,Psychic,https://images.pokemontcg.io/sm8/103.png,$1.18,True,sm8-103
+Dusknoir,CEC,85,Pokémon,Psychic,https://images.pokemontcg.io/sm12/85.png,$0.37,True,sm12-85
+Gengar,sv3pt5,94,Pokémon,Psychic,https://images.pokemontcg.io/sv3pt5/94.png,$0.21,True,sv3pt5-94
+Gengar,swsh6,57,Pokémon,Psychic,https://images.pokemontcg.io/swsh6/57.png,$0.35,True,swsh6-57
+Nidoqueen,TEU,56,Pokémon,Psychic,https://images.pokemontcg.io/sm9/56.png,$0.63,True,sm9-56
+Togekiss,sv3,85,Pokémon,Psychic,https://images.pokemontcg.io/sv3/85.png,$0.07,True,sv3-85
+Banette,swsh11,73,Pokémon,Psychic,https://images.pokemontcg.io/swsh11/73.png,$0.06,True,swsh11-73
+Clefable,RCL,75,Pokémon,Psychic,https://images.pokemontcg.io/swsh2/75.png,$0.32,True,swsh2-75
+Clefable,swsh9,54,Pokémon,Psychic,https://images.pokemontcg.io/swsh9/54.png,$0.1,True,swsh9-54
+Drifblim,sv1,90,Pokémon,Psychic,https://images.pokemontcg.io/sv1/90.png,$0.05,True,sv1-90
+Dusclops,sv8pt5,36,Pokémon,Psychic,https://images.pokemontcg.io/sv8pt5/36.png,$0.1,True,sv8pt5-36
+Haunter,sv3pt5,93,Pokémon,Psychic,https://images.pokemontcg.io/sv3pt5/93.png,$0.07,True,sv3pt5-93
+Kirlia,swsh12,68,Pokémon,Psychic,https://images.pokemontcg.io/swsh12/68.png,$0.12,True,swsh12-68
+Kirlia,swsh12,68,Pokémon,Psychic,https://images.pokemontcg.io/swsh12/68.png,$0.12,True,swsh12-68
+Malamar,FLI,51,Pokémon,Psychic,https://images.pokemontcg.io/sm6/51.png,$0.53,True,sm6-51
+Polteageist,SSH,90,Pokémon,Psychic,https://images.pokemontcg.io/swsh1/90.png,$0.17,True,swsh1-90
+Wyrdeer,swsh10,69,Pokémon,Psychic,https://images.pokemontcg.io/swsh10/69.png,$0.19,True,swsh10-69
+Xatu,sv4,72,Pokémon,Psychic,https://images.pokemontcg.io/sv4/72.png,$0.12,True,sv4-72
+Azelf,sv8,80,Pokémon,Psychic,https://images.pokemontcg.io/sv8/80.png,$0.07,True,sv8-80
+Blacephalon,CEC,104,Pokémon,Psychic,https://images.pokemontcg.io/sm12/104.png,$2.49,True,sm12-104
+Cleffa,sv3,80,Pokémon,Psychic,https://images.pokemontcg.io/sv3/80.png,$0.18,True,sv3-80
+Cleffa,svp,95,Pokémon,Psychic,https://images.pokemontcg.io/svp/95.png,$0.24,True,svp-95
+Marshadow,SLG,45,Pokémon,Psychic,https://images.pokemontcg.io/sm35/45.png,$0.43,True,sm35-45
+Mr. Mime,sv3pt5,122,Pokémon,Psychic,https://images.pokemontcg.io/sv3pt5/122.png,$0.1,True,sv3pt5-122
+Sableye,LOT,96,Pokémon,Psychic,https://images.pokemontcg.io/sm8/96.png,$0.18,True,sm8-96
+Uxie,sv8,78,Pokémon,Psychic,https://images.pokemontcg.io/sv8/78.png,$0.11,True,sv8-78
+Krookodile,sv1,117,Pokémon,Fighting,https://images.pokemontcg.io/sv1/117.png,$0.04,True,sv1-117
+Rhyperior,BUS,67,Pokémon,Fighting,https://images.pokemontcg.io/sm3/67.png,$0.28,True,sm3-67
+Seismitoad,CEC,117,Pokémon,Fighting,https://images.pokemontcg.io/sm12/117.png,$0.15,True,sm12-117
+Tyrantrum,FLI,69,Pokémon,Fighting,https://images.pokemontcg.io/sm6/69.png,$3.31,True,sm6-69
+Donphan,sv8,103,Pokémon,Fighting,https://images.pokemontcg.io/sv8/103.png,$0.07,True,sv8-103
+Donphan,VIV,87,Pokémon,Fighting,https://images.pokemontcg.io/swsh4/87.png,$0.09,True,swsh4-87
+Galarian Runerigus,RCL,102,Pokémon,Fighting,https://images.pokemontcg.io/swsh2/102.png,$0.21,True,swsh2-102
+Hariyama,sv2,113,Pokémon,Fighting,https://images.pokemontcg.io/sv2/113.png,$0.07,True,sv2-113
+Primeape,BST,67,Pokémon,Fighting,https://images.pokemontcg.io/swsh5/67.png,$0.12,True,swsh5-67
+Steelix,swsh8,139,Pokémon,Fighting,https://images.pokemontcg.io/swsh8/139.png,$0.12,True,swsh8-139
+Whiscash,sv3,109,Pokémon,Fighting,https://images.pokemontcg.io/sv3/109.png,$0.05,True,sv3-109
+Carbink,LOT,117,Pokémon,Fighting,https://images.pokemontcg.io/sm8/117.png,$0.13,True,sm8-117
+Carbink,swsh11,108,Pokémon,Fighting,https://images.pokemontcg.io/swsh11/108.png,$0.04,True,swsh11-108
+Great Tusk,sv5,96,Pokémon,Fighting,https://images.pokemontcg.io/sv5/96.png,$0.03,True,sv5-96
+Onix,pgo,36,Pokémon,Fighting,https://images.pokemontcg.io/pgo/36.png,$0.07,True,pgo-36
+Phanpy,VIV,86,Pokémon,Fighting,https://images.pokemontcg.io/swsh4/86.png,$0.05,True,swsh4-86
+Regirock,CES,80,Pokémon,Fighting,https://images.pokemontcg.io/sm7/80.png,$0.26,True,sm7-80
+Relicanth,sv5,84,Pokémon,Fighting,https://images.pokemontcg.io/sv5/84.png,$0.07,True,sv5-84
+Stakataka,UNB,106,Pokémon,Fighting,https://images.pokemontcg.io/sm10/106.png,$1.26,True,sm10-106
+Terrakion,UNM,122,Pokémon,Fighting,https://images.pokemontcg.io/sm11/122.png,$0.43,True,sm11-122
+Crobat,swsh12,105,Pokémon,Darkness,https://images.pokemontcg.io/swsh12/105.png,$0.19,True,swsh12-105
+Galarian Obstagoon,CPA,37,Pokémon,Darkness,https://images.pokemontcg.io/swsh35/37.png,$0.18,True,swsh35-37
+Galarian Obstagoon,PR-SWSH,SWSH059,Pokémon,Darkness,https://images.pokemontcg.io/swshp/SWSH059.png,$2.27,True,swshp-SWSH059
+Hisuian Samurott,swsh10,100,Pokémon,Darkness,https://images.pokemontcg.io/swsh10/100.png,$0.26,True,swsh10-100
+Krookodile,swsh12,113,Pokémon,Darkness,https://images.pokemontcg.io/swsh12/113.png,$0.17,True,swsh12-113
+Ariados,DAA,103,Pokémon,Darkness,https://images.pokemontcg.io/swsh3/103.png,$0.06,True,swsh3-103
+Garbodor,RCL,118,Pokémon,Darkness,https://images.pokemontcg.io/swsh2/118.png,$0.28,True,swsh2-118
+Golbat,BST,90,Pokémon,Darkness,https://images.pokemontcg.io/swsh5/90.png,$0.06,True,swsh5-90
+Liepard,swsh9,91,Pokémon,Darkness,https://images.pokemontcg.io/swsh9/91.png,$0.12,True,swsh9-91
+Lokix,sv4,122,Pokémon,Darkness,https://images.pokemontcg.io/sv4/122.png,$0.08,True,sv4-122
+Malamar,UNB,119,Pokémon,Darkness,https://images.pokemontcg.io/sm10/119.png,$0.37,True,sm10-119
+Thievul,swsh7,105,Pokémon,Darkness,https://images.pokemontcg.io/swsh7/105.png,$0.07,True,swsh7-105
+Toxicroak,SSH,124,Pokémon,Darkness,https://images.pokemontcg.io/swsh1/124.png,$0.5,True,swsh1-124
+Umbreon,PR-SWSH,SWSH129,Pokémon,Darkness,https://images.pokemontcg.io/swshp/SWSH129.png,$7.3,True,swshp-SWSH129
+Absol,swsh12pt5,76,Pokémon,Darkness,https://images.pokemontcg.io/swsh12pt5/76.png,$0.21,True,swsh12pt5-76
+Absol,ROS,40,Pokémon,Darkness,https://images.pokemontcg.io/xy6/40.png,$0.39,True,xy6-40
+Absol,PR-XY,XY178,Pokémon,Darkness,https://images.pokemontcg.io/xyp/XY178.png,$11.49,True,xyp-XY178
+Alolan Meowth,PR-SM,SM51,Pokémon,Darkness,https://images.pokemontcg.io/smp/SM51.png,$3.12,True,smp-SM51
+Brute Bonnet,sv6,118,Pokémon,Darkness,https://images.pokemontcg.io/sv6/118.png,$0.03,True,sv6-118
+Galarian Zigzagoon,SSH,117,Pokémon,Darkness,https://images.pokemontcg.io/swsh1/117.png,$0.07,True,swsh1-117
+Guzzlord,CEC,136,Pokémon,Darkness,https://images.pokemontcg.io/sm12/136.png,$4.58,True,sm12-136
+Radiant Hisuian Sneasler,swsh11,123,Pokémon,Darkness,https://images.pokemontcg.io/swsh11/123.png,$0.38,True,swsh11-123
+Sableye,VIV,105,Pokémon,Darkness,https://images.pokemontcg.io/swsh4/105.png,$0.05,True,swsh4-105
+Yveltal,sv6pt5,35,Pokémon,Darkness,https://images.pokemontcg.io/sv6pt5/35.png,$0.1,True,sv6pt5-35
+Aegislash,RCL,135,Pokémon,Metal,https://images.pokemontcg.io/swsh2/135.png,$0.2,True,swsh2-135
+Corviknight,SSH,135,Pokémon,Metal,https://images.pokemontcg.io/swsh1/135.png,$0.18,True,swsh1-135
+Magnezone,swsh10,107,Pokémon,Metal,https://images.pokemontcg.io/swsh10/107.png,$0.19,True,swsh10-107
+Metagross,AOR,49,Pokémon,Metal,https://images.pokemontcg.io/xy7/49.png,$0.24,True,xy7-49
+Alolan Dugtrio,UNB,122,Pokémon,Metal,https://images.pokemontcg.io/sm10/122.png,$0.26,True,sm10-122
+Bronzong,sv8pt5,67,Pokémon,Metal,https://images.pokemontcg.io/sv8pt5/67.png,$0.05,True,sv8pt5-67
+Bronzong,BST,102,Pokémon,Metal,https://images.pokemontcg.io/swsh5/102.png,$0.18,True,swsh5-102
+Ferrothorn,TEU,103,Pokémon,Metal,https://images.pokemontcg.io/sm9/103.png,$0.21,True,sm9-103
+Ferrothorn,sv4,128,Pokémon,Metal,https://images.pokemontcg.io/sv4/128.png,$0.02,True,sv4-128
+Gholdengo,sv4pt5,67,Pokémon,Metal,https://images.pokemontcg.io/sv4pt5/67.png,$0.1,True,sv4pt5-67
+Metang,sv5,114,Pokémon,Metal,https://images.pokemontcg.io/sv5/114.png,$0.1,True,sv5-114
+Revavroom,sv1,142,Pokémon,Metal,https://images.pokemontcg.io/sv1/142.png,$0.09,True,sv1-142
+Alolan Diglett,LOT,122,Pokémon,Metal,https://images.pokemontcg.io/sm8/122.png,$0.17,True,sm8-122
+Beldum,swsh12,117,Pokémon,Metal,https://images.pokemontcg.io/swsh12/117.png,$0.04,True,swsh12-117
+Bronzor,TEU,100,Pokémon,Metal,https://images.pokemontcg.io/sm9/100.png,$0.26,True,sm9-100
+Dialga,cel25,20,Pokémon,Metal,https://images.pokemontcg.io/cel25/20.png,$0.11,True,cel25-20
+Jirachi,TEU,99,Pokémon,Metal,https://images.pokemontcg.io/sm9/99.png,$3,True,sm9-99
+Mawile,sv3,143,Pokémon,Metal,https://images.pokemontcg.io/sv3/143.png,$0.04,True,sv3-143
+Mawile,SSH,129,Pokémon,Metal,https://images.pokemontcg.io/swsh1/129.png,$0.06,True,swsh1-129
+Orthworm,sv2,151,Pokémon,Metal,https://images.pokemontcg.io/sv2/151.png,$0.13,True,sv2-151
+Zamazenta,swsh12pt5,97,Pokémon,Metal,https://images.pokemontcg.io/swsh12pt5/97.png,$0.52,True,swsh12pt5-97
+Dragonite,TEU,119,Pokémon,Dragon,https://images.pokemontcg.io/sm9/119.png,$1.38,True,sm9-119
+Goodra,GRI,96,Pokémon,Dragon,https://images.pokemontcg.io/sm2/96.png,$0.37,True,sm2-96
+Goodra,swsh8,197,Pokémon,Dragon,https://images.pokemontcg.io/swsh8/197.png,$0.1,True,swsh8-197
+Salamence,CES,106,Pokémon,Dragon,https://images.pokemontcg.io/sm7/106.png,$0.48,True,sm7-106
+Altaria,DRX,84,Pokémon,Dragon,https://images.pokemontcg.io/bw6/84.png,$1.1,True,bw6-84
+Altaria,DRM,40a,Pokémon,Dragon,https://images.pokemontcg.io/sm75/40a.png,$0,True,sm75-40a
+Altaria,sv8,134,Pokémon,Dragon,https://images.pokemontcg.io/sv8/134.png,$0.04,True,sv8-134
+Altaria,swsh7,106,Pokémon,Dragon,https://images.pokemontcg.io/swsh7/106.png,$0.08,True,swsh7-106
+Gabite,UPR,98,Pokémon,Dragon,https://images.pokemontcg.io/sm5/98.png,$0.21,True,sm5-98
+Noivern,UNM,159,Pokémon,Dragon,https://images.pokemontcg.io/sm11/159.png,$0.33,True,sm11-159
+Noivern,FFI,77,Pokémon,Dragon,https://images.pokemontcg.io/xy3/77.png,$0.99,True,xy3-77
+Dialga,sv8,135,Pokémon,Dragon,https://images.pokemontcg.io/sv8/135.png,$0.07,True,sv8-135
+Drampa,swsh7,119,Pokémon,Dragon,https://images.pokemontcg.io/swsh7/119.png,$0.11,True,swsh7-119
+Druddigon,swsh9,113,Pokémon,Dragon,https://images.pokemontcg.io/swsh9/113.png,$0.08,True,swsh9-113
+Gible,UPR,96,Pokémon,Dragon,https://images.pokemontcg.io/sm5/96.png,$0.18,True,sm5-96
+Palkia,sv8,136,Pokémon,Dragon,https://images.pokemontcg.io/sv8/136.png,$0.06,True,sv8-136
+Raging Bolt,sv7,111,Pokémon,Dragon,https://images.pokemontcg.io/sv7/111.png,$0.08,True,sv7-111
+Tatsugiri,sv4,141,Pokémon,Dragon,https://images.pokemontcg.io/sv4/141.png,$0.04,True,sv4-141
+Tatsugiri,sv6,131,Pokémon,Dragon,https://images.pokemontcg.io/sv6/131.png,$0.07,True,sv6-131
+Zygarde,swsh7,118,Pokémon,Dragon,https://images.pokemontcg.io/swsh7/118.png,$0.18,True,swsh7-118
+Corviknight,DAA,156,Pokémon,Colorless,https://images.pokemontcg.io/swsh3/156.png,$0.19,True,swsh3-156
+Stoutland,CEC,176,Pokémon,Colorless,https://images.pokemontcg.io/sm12/176.png,$0.43,True,sm12-176
+Ursaluna,swsh10,124,Pokémon,Colorless,https://images.pokemontcg.io/swsh10/124.png,$0.13,True,swsh10-124
+Bibarel,swsh9,121,Pokémon,Colorless,https://images.pokemontcg.io/swsh9/121.png,$1.05,True,swsh9-121
+Cinccino,SSH,147,Pokémon,Colorless,https://images.pokemontcg.io/swsh1/147.png,$0.28,True,swsh1-147
+Clefable,PLS,98,Pokémon,Colorless,https://images.pokemontcg.io/bw8/98.png,$0.58,True,bw8-98
+Delcatty,CES,121,Pokémon,Colorless,https://images.pokemontcg.io/sm7/121.png,$0.53,True,sm7-121
+Dudunsparce,sv5,129,Pokémon,Colorless,https://images.pokemontcg.io/sv5/129.png,$0.18,True,sv5-129
+Fearow,sv3pt5,22,Pokémon,Colorless,https://images.pokemontcg.io/sv3pt5/22.png,$0.05,True,sv3pt5-22
+Herdier,SUM,104,Pokémon,Colorless,https://images.pokemontcg.io/sm1/104.png,$0.08,True,sm1-104
+Oinkologne,sv3,184,Pokémon,Colorless,https://images.pokemontcg.io/sv3/184.png,$0.07,True,sv3-184
+Pelipper,sv2,159,Pokémon,Colorless,https://images.pokemontcg.io/sv2/159.png,$0.03,True,sv2-159
+Chatot,sv5,132,Pokémon,Colorless,https://images.pokemontcg.io/sv5/132.png,$0.02,True,sv5-132
+Chatot,RCL,142,Pokémon,Colorless,https://images.pokemontcg.io/swsh2/142.png,$0.05,True,swsh2-142
+Cyclizar,sv1,164,Pokémon,Colorless,https://images.pokemontcg.io/sv1/164.png,$0.08,True,sv1-164
+Ditto,pgo,53,Pokémon,Colorless,https://images.pokemontcg.io/pgo/53.png,$0.98,True,pgo-53
+Oranguru,SUM,113,Pokémon,Colorless,https://images.pokemontcg.io/sm1/113.png,$0.28,True,sm1-113
+Oranguru,SSH,148,Pokémon,Colorless,https://images.pokemontcg.io/swsh1/148.png,$0.23,True,swsh1-148
+Rattata,EVO,66,Pokémon,Colorless,https://images.pokemontcg.io/xy12/66.png,$0.06,True,xy12-66
+Shaymin,swsh6,123,Pokémon,Colorless,https://images.pokemontcg.io/swsh6/123.png,$0.18,True,swsh6-123
+Skwovet,sv1,151,Pokémon,Colorless,https://images.pokemontcg.io/sv1/151.png,$0.14,True,sv1-151
+Snorlax,VIV,131,Pokémon,Colorless,https://images.pokemontcg.io/swsh4/131.png,$0.36,True,swsh4-131
+Spearow,sv3pt5,21,Pokémon,Colorless,https://images.pokemontcg.io/sv3pt5/21.png,$0.05,True,sv3pt5-21
+Arezu,swsh11,153,Supporter,,https://images.pokemontcg.io/swsh11/153.png,$0.08,True,swsh11-153
+Arven,sv1,166,Supporter,,https://images.pokemontcg.io/sv1/166.png,$1.17,True,sv1-166
+Bea,VIV,147,Supporter,,https://images.pokemontcg.io/swsh4/147.png,$0.05,True,swsh4-147
+Bill's Analysis,TEU,133,Supporter,,https://images.pokemontcg.io/sm9/133.png,$0.41,True,sm9-133
+Bill's Transfer,sv3pt5,156,Supporter,,https://images.pokemontcg.io/sv3pt5/156.png,$0.09,True,sv3pt5-156
+Bird Keeper,DAA,159,Supporter,,https://images.pokemontcg.io/swsh3/159.png,$0.18,True,swsh3-159
+Blacksmith,FLF,88,Supporter,,https://images.pokemontcg.io/xy2/88.png,$1.7,True,xy2-88
+Brigette,BKT,134,Supporter,,https://images.pokemontcg.io/xy8/134.png,$3,True,xy8-134
+Brock's Grit,EVO,74,Supporter,,https://images.pokemontcg.io/xy12/74.png,$0.07,True,xy12-74
+Carmine,sv6,145,Supporter,,https://images.pokemontcg.io/sv6/145.png,$0.07,True,sv6-145
+Cheren's Care,swsh9,134,Supporter,,https://images.pokemontcg.io/swsh9/134.png,$0.06,True,swsh9-134
+Cheryl,BST,123,Supporter,,https://images.pokemontcg.io/swsh5/123.png,$0.07,True,swsh5-123
+Ciphermaniac's Codebreaking,sv5,145,Supporter,,https://images.pokemontcg.io/sv5/145.png,$0.09,True,sv5-145
+Clavell,sv2,177,Supporter,,https://images.pokemontcg.io/sv2/177.png,$0.08,True,sv2-177
+Colress's Tenacity,sv6pt5,57,Supporter,,https://images.pokemontcg.io/sv6pt5/57.png,$0.14,True,sv6pt5-57
+Copycat,swsh7,143,Supporter,,https://images.pokemontcg.io/swsh7/143.png,$0.06,True,swsh7-143
+Crispin,sv7,133,Supporter,,https://images.pokemontcg.io/sv7/133.png,$0.14,True,sv7-133
+Cynthia,UPR,119,Supporter,,https://images.pokemontcg.io/sm5/119.png,$0.92,True,sm5-119
+Cynthia,UPR,119,Supporter,,https://images.pokemontcg.io/sm5/119.png,$0.92,True,sm5-119
+Cynthia & Caitlin,CEC,189,Supporter,,https://images.pokemontcg.io/sm12/189.png,$1.41,True,sm12-189
+Cynthia's Ambition,swsh9,138,Supporter,,https://images.pokemontcg.io/swsh9/138.png,$0.09,True,swsh9-138
+Drayton,sv8,174,Supporter,,https://images.pokemontcg.io/sv8/174.png,$0.13,True,sv8-174
+Explorer's Guidance,sv5,147,Supporter,,https://images.pokemontcg.io/sv5/147.png,$0.08,True,sv5-147
+Furisode Girl,swsh12,157,Supporter,,https://images.pokemontcg.io/swsh12/157.png,$0.06,True,swsh12-157
+Gardenia,UPR,124,Supporter,,https://images.pokemontcg.io/sm5/124.png,$0.23,True,sm5-124
+Gardenia's Vigor,swsh10,143,Supporter,,https://images.pokemontcg.io/swsh10/143.png,$0.08,True,swsh10-143
+Giovanni's Scheme,BKT,138,Supporter,,https://images.pokemontcg.io/xy8/138.png,$0.17,True,xy8-138
+Gladion,CIN,95,Supporter,,https://images.pokemontcg.io/sm4/95.png,$0.43,True,sm4-95
+Gloria,swsh9,141,Supporter,,https://images.pokemontcg.io/swsh9/141.png,$0.04,True,swsh9-141
+Grant,swsh10,144,Supporter,,https://images.pokemontcg.io/swsh10/144.png,$0.07,True,swsh10-144
+Green's Exploration,UNB,175,Supporter,,https://images.pokemontcg.io/sm10/175.png,$0.2,True,sm10-175
+Guzma & Hala,CEC,193,Supporter,,https://images.pokemontcg.io/sm12/193.png,$5.25,True,sm12-193
+Hassel,sv6,151,Supporter,,https://images.pokemontcg.io/sv6/151.png,$0.03,True,sv6-151
+Hex Maniac,AOR,75,Supporter,,https://images.pokemontcg.io/xy7/75.png,$1.92,True,xy7-75
+Ingo & Emmet,TEU,144,Supporter,,https://images.pokemontcg.io/sm9/144.png,$0.23,True,sm9-144
+Iono,sv2,185,Supporter,,https://images.pokemontcg.io/sv2/185.png,$0.24,True,sv2-185
+Irida,swsh10,147,Supporter,,https://images.pokemontcg.io/swsh10/147.png,$3.04,True,swsh10-147
+Iris,PLB,81,Supporter,,https://images.pokemontcg.io/bw10/81.png,$0.19,True,bw10-81
+Jacq,sv1,175,Supporter,,https://images.pokemontcg.io/sv1/175.png,$0.1,True,sv1-175
+Jasmine's Gaze,sv8,178,Supporter,,https://images.pokemontcg.io/sv8/178.png,$0.1,True,sv8-178
+Judge,sv1,176,Supporter,,https://images.pokemontcg.io/sv1/176.png,$0.08,True,sv1-176
+Klara,swsh6,145,Supporter,,https://images.pokemontcg.io/swsh6/145.png,$0.08,True,swsh6-145
+Koga's Trap,UNB,177,Supporter,,https://images.pokemontcg.io/sm10/177.png,$0.14,True,sm10-177
+Lana's Aid,sv6,155,Supporter,,https://images.pokemontcg.io/sv6/155.png,$0.1,True,sv6-155
+Lance,swsh12,159,Supporter,,https://images.pokemontcg.io/swsh12/159.png,$0.08,True,swsh12-159
+Misty's Determination,HIF,62,Supporter,,https://images.pokemontcg.io/sm115/62.png,$0.08,True,sm115-62
+Misty's Favor,UNM,202,Supporter,,https://images.pokemontcg.io/sm11/202.png,$0.31,True,sm11-202
+Morty's Conviction,sv5,155,Supporter,,https://images.pokemontcg.io/sv5/155.png,$0.05,True,sv5-155
+N,DEX,96,Supporter,,https://images.pokemontcg.io/bw5/96.png,$0.73,True,bw5-96
+Nessa,VIV,157,Supporter,,https://images.pokemontcg.io/swsh4/157.png,$0.09,True,swsh4-157
+N's Resolve,CEC,200,Supporter,,https://images.pokemontcg.io/sm12/200.png,$0.12,True,sm12-200
+Opal,VIV,158,Supporter,,https://images.pokemontcg.io/swsh4/158.png,$0.05,True,swsh4-158
+Peony,swsh6,150,Supporter,,https://images.pokemontcg.io/swsh6/150.png,$0.08,True,swsh6-150
+Perrin,sv6,160,Supporter,,https://images.pokemontcg.io/sv6/160.png,$0.07,True,sv6-160
+Piers,DAA,165,Supporter,,https://images.pokemontcg.io/swsh3/165.png,$0.08,True,swsh3-165
+Pokémon Breeder's Nurturing,DAA,166,Supporter,,https://images.pokemontcg.io/swsh3/166.png,$0.1,True,swsh3-166
+Professor Burnet,PR-SWSH,SWSH167,Supporter,,https://images.pokemontcg.io/swshp/SWSH167.png,$0.13,True,swshp-SWSH167
+Professor Elm's Lecture,LOT,188,Supporter,,https://images.pokemontcg.io/sm8/188.png,$0.23,True,sm8-188
+Professor Oak's Setup,CEC,201,Supporter,,https://images.pokemontcg.io/sm12/201.png,$0.12,True,sm12-201
+Professor Turo's Scenario,sv4,171,Supporter,,https://images.pokemontcg.io/sv4/171.png,$0.23,True,sv4-171
+Professor's Research (Professor Magnolia),CPA,62,Supporter,,https://images.pokemontcg.io/swsh35/62.png,$0.14,True,swsh35-62
+Raihan,swsh7,152,Supporter,,https://images.pokemontcg.io/swsh7/152.png,$0.08,True,swsh7-152
+Rika,sv4,172,Supporter,,https://images.pokemontcg.io/sv4/172.png,$0.04,True,sv4-172
+Rosa,CEC,204,Supporter,,https://images.pokemontcg.io/sm12/204.png,$2.43,True,sm12-204
+Roseanne's Research,SW,125,Supporter,,https://images.pokemontcg.io/dp3/125.png,$1.92,True,dp3-125
+Ryme,sv3,194,Supporter,,https://images.pokemontcg.io/sv3/194.png,$0.08,True,sv3-194
+Sabrina & Brycen,PR-SM,SM246,Supporter,,https://images.pokemontcg.io/smp/SM246.png,$0.23,True,smp-SM246
+Sabrina's Suggestion,TEU,154,Supporter,,https://images.pokemontcg.io/sm9/154.png,$0.17,True,sm9-154
+Shauna,swsh8,240,Supporter,,https://images.pokemontcg.io/swsh8/240.png,$0.07,True,swsh8-240
+Shauntal,sv4,174,Supporter,,https://images.pokemontcg.io/sv4/174.png,$0.03,True,sv4-174
+Sightseer,LOT,189,Supporter,,https://images.pokemontcg.io/sm8/189.png,$0.22,True,sm8-189
+Skyla,RCL,166,Supporter,,https://images.pokemontcg.io/swsh2/166.png,$0.15,True,swsh2-166
+Sonia,RCL,167,Supporter,,https://images.pokemontcg.io/swsh2/167.png,$0.1,True,swsh2-167
+Steven,ROS,90,Supporter,,https://images.pokemontcg.io/xy6/90.png,$0.31,True,xy6-90
+Steven's Resolve,CES,145,Supporter,,https://images.pokemontcg.io/sm7/145.png,$2.14,True,sm7-145
+Surfer,sv8,187,Supporter,,https://images.pokemontcg.io/sv8/187.png,$0.11,True,sv8-187
+Tate & Liza,CES,148,Supporter,,https://images.pokemontcg.io/sm7/148.png,$1.14,True,sm7-148
+Teammates,PRC,141,Supporter,,https://images.pokemontcg.io/xy5/141.png,$2.85,True,xy5-141
+Thorton,swsh11,167,Supporter,,https://images.pokemontcg.io/swsh11/167.png,$0.09,True,swsh11-167
+Volkner,UPR,135,Supporter,,https://images.pokemontcg.io/sm5/135.png,$0.42,True,sm5-135
+Winona,ROS,96,Supporter,,https://images.pokemontcg.io/xy6/96.png,$0.25,True,xy6-96
+Zinnia's Resolve,swsh7,164,Supporter,,https://images.pokemontcg.io/swsh7/164.png,$0.05,True,swsh7-164
+Zisu,swsh10,159,Supporter,,https://images.pokemontcg.io/swsh10/159.png,$0.06,True,swsh10-159
+Acro Bike,CES,123,Item,,https://images.pokemontcg.io/sm7/123.png,$0.37,True,sm7-123
+Aqua Patch,GRI,119,Item,,https://images.pokemontcg.io/sm2/119.png,$0.25,True,sm2-119
+Battle Compressor Team Flare Gear,PHF,92,Item,,https://images.pokemontcg.io/xy4/92.png,$3.72,True,xy4-92
+Bicycle,PLS,117,Item,,https://images.pokemontcg.io/bw8/117.png,$5.54,True,bw8-117
+Boost Shake,swsh7,142,Item,,https://images.pokemontcg.io/swsh7/142.png,$0.06,True,swsh7-142
+Buddy-Buddy Poffin,sv5,144,Item,,https://images.pokemontcg.io/sv5/144.png,$1.63,True,sv5-144
+Camping Gear,BST,122,Item,,https://images.pokemontcg.io/swsh5/122.png,$0.09,True,swsh5-122
+Canceling Cologne,swsh10,136,Item,,https://images.pokemontcg.io/swsh10/136.png,$0.19,True,swsh10-136
+Capturing Aroma,swsh12,153,Item,,https://images.pokemontcg.io/swsh12/153.png,$0.19,True,swsh12-153
+Counter Catcher,sv4,160,Item,,https://images.pokemontcg.io/sv4/160.png,$1.26,True,sv4-160
+Damage Mover,SLG,58,Item,,https://images.pokemontcg.io/sm35/58.png,$0.15,True,sm35-58
+Damage Pump,swsh11,156,Item,,https://images.pokemontcg.io/swsh11/156.png,$0.1,True,swsh11-156
+Dark Patch,swsh10,139,Item,,https://images.pokemontcg.io/swsh10/139.png,$0.17,True,swsh10-139
+Dive Ball,PRC,125,Item,,https://images.pokemontcg.io/xy5/125.png,$1.67,True,xy5-125
+Dusk Ball,sv8,175,Item,,https://images.pokemontcg.io/sv8/175.png,$0.13,True,sv8-175
+Electropower,LOT,172,Item,,https://images.pokemontcg.io/sm8/172.png,$0.48,True,sm8-172
+Energy Reset,FAC,98,Item,,https://images.pokemontcg.io/xy10/98.png,$0.13,True,xy10-98
+Energy Retrieval,sv1,171,Item,,https://images.pokemontcg.io/sv1/171.png,$0.14,True,sv1-171
+Energy Switch,sv1,173,Item,,https://images.pokemontcg.io/sv1/173.png,$0.15,True,sv1-173
+Escape Rope,BST,125,Item,,https://images.pokemontcg.io/swsh5/125.png,$0.12,True,swsh5-125
+Evolution Incense,SSH,163,Item,,https://images.pokemontcg.io/swsh1/163.png,$0.17,True,swsh1-163
+Evosoda,XY,116,Item,,https://images.pokemontcg.io/xy1/116.png,$0.74,True,xy1-116
+Fire Crystal,UNB,173,Item,,https://images.pokemontcg.io/sm10/173.png,$0.18,True,sm10-173
+Fresh Water Set,swsh9,139,Item,,https://images.pokemontcg.io/swsh9/139.png,$0.07,True,swsh9-139
+Great Ball,sv2,183,Item,,https://images.pokemontcg.io/sv2/183.png,$0.06,True,sv2-183
+Hand Trimmer,sv5,150,Item,,https://images.pokemontcg.io/sv5/150.png,$0.05,True,sv5-150
+Heavy Ball,BKT,140,Item,,https://images.pokemontcg.io/xy8/140.png,$0.84,True,xy8-140
+Hisuian Heavy Ball,swsh10,146,Item,,https://images.pokemontcg.io/swsh10/146.png,$0.32,True,swsh10-146
+Hyper Potion,CPA,54,Item,,https://images.pokemontcg.io/swsh35/54.png,$0.09,True,swsh35-54
+Judge Whistle,TEU,146,Item,,https://images.pokemontcg.io/sm9/146.png,$0.19,True,sm9-146
+Last Chance Potion,CES,135,Item,,https://images.pokemontcg.io/sm7/135.png,$0.2,True,sm7-135
+Level Ball,BST,129,Item,,https://images.pokemontcg.io/swsh5/129.png,$0.12,True,swsh5-129
+Lost Vacuum,swsh11,162,Item,,https://images.pokemontcg.io/swsh11/162.png,$0.06,True,swsh11-162
+Lure Ball,CES,138,Item,,https://images.pokemontcg.io/sm7/138.png,$0.17,True,sm7-138
+Max Elixir,BKP,102,Item,,https://images.pokemontcg.io/xy9/102.png,$1.13,True,xy9-102
+Metal Saucer,SSH,170,Item,,https://images.pokemontcg.io/swsh1/170.png,$0.18,True,swsh1-170
+Multi Switch,GRI,129,Item,,https://images.pokemontcg.io/sm2/129.png,$0.08,True,sm2-129
+Mysterious Treasure,FLI,113,Item,,https://images.pokemontcg.io/sm6/113.png,$1.03,True,sm6-113
+Nest Ball,sv1,181,Item,,https://images.pokemontcg.io/sv1/181.png,$0.16,True,sv1-181
+Net Ball,LOT,187,Item,,https://images.pokemontcg.io/sm8/187.png,$1.23,True,sm8-187
+Night Stretcher,sv6pt5,61,Item,,https://images.pokemontcg.io/sv6pt5/61.png,$0.91,True,sv6pt5-61
+Pal Pad,sv1,182,Item,,https://images.pokemontcg.io/sv1/182.png,$0.24,True,sv1-182
+PlusPower,BW,96,Item,,https://images.pokemontcg.io/bw1/96.png,$0.22,True,bw1-96
+Poké Ball,sv1,185,Item,,https://images.pokemontcg.io/sv1/185.png,$0.05,True,sv1-185
+Pokémon Communication,TEU,152,Item,,https://images.pokemontcg.io/sm9/152.png,$0.21,True,sm9-152
+PokéNav,CES,140,Item,,https://images.pokemontcg.io/sm7/140.png,$0.21,True,sm7-140
+Potion,sv1,188,Item,,https://images.pokemontcg.io/sv1/188.png,$0.06,True,sv1-188
+Quick Ball,swsh8,237,Item,,https://images.pokemontcg.io/swsh8/237.png,$0.11,True,swsh8-237
+Rainbow Brush,CES,141,Item,,https://images.pokemontcg.io/sm7/141.png,$0.16,True,sm7-141
+Rescue Carrier,swsh7,154,Item,,https://images.pokemontcg.io/swsh7/154.png,$0.08,True,swsh7-154
+Rescue Stretcher,GRI,130,Item,,https://images.pokemontcg.io/sm2/130.png,$0.85,True,sm2-130
+Revitalizer,GEN,70,Item,,https://images.pokemontcg.io/g1/70.png,$0.55,True,g1-70
+Revive,EVO,85,Item,,https://images.pokemontcg.io/xy12/85.png,$0.12,True,xy12-85
+Roller Skates,XY,125,Item,,https://images.pokemontcg.io/xy1/125.png,$0.18,True,xy1-125
+Rotom Bike,SSH,181,Item,,https://images.pokemontcg.io/swsh1/181.png,$0.05,True,swsh1-181
+Scoop Up Net,RCL,165,Item,,https://images.pokemontcg.io/swsh2/165.png,$0.21,True,swsh2-165
+Super Rod,sv2,188,Item,,https://images.pokemontcg.io/sv2/188.png,$0.93,True,sv2-188
+Super Scoop Up,CES,146,Item,,https://images.pokemontcg.io/sm7/146.png,$0.16,True,sm7-146
+Superior Energy Retrieval,sv2,189,Item,,https://images.pokemontcg.io/sv2/189.png,$0.52,True,sv2-189
+Surprise Box,UNB,187,Item,,https://images.pokemontcg.io/sm10/187.png,$0.13,True,sm10-187
+Switch,sv1,194,Item,,https://images.pokemontcg.io/sv1/194.png,$0.16,True,sv1-194
+Town Map,BKT,150,Item,,https://images.pokemontcg.io/xy8/150.png,$3.83,True,xy8-150
+Toy Catcher,swsh7,163,Item,,https://images.pokemontcg.io/swsh7/163.png,$0.04,True,swsh7-163
+Trainers' Mail,ROS,92a,Item,,https://images.pokemontcg.io/xy6/92a.png,$0,True,xy6-92a
+Trekking Shoes,swsh10,156,Item,,https://images.pokemontcg.io/swsh10/156.png,$0.11,True,swsh10-156
+Ultra Ball,sv4pt5,91,Item,,https://images.pokemontcg.io/sv4pt5/91.png,$0.14,True,sv4pt5-91
+Artazon,sv2,171,Stadium,,https://images.pokemontcg.io/sv2/171.png,$0.1,True,sv2-171
+Aspertia City Gym,BCR,127,Stadium,,https://images.pokemontcg.io/bw7/127.png,$0.29,True,bw7-127
+Cycling Road,sv3pt5,157,Stadium,,https://images.pokemontcg.io/sv3pt5/157.png,$0.07,True,sv3pt5-157
+Grand Tree,sv7,136,Stadium,,https://images.pokemontcg.io/sv7/136.png,$1.1,True,sv7-136
+Jubilife Village,swsh10,148,Stadium,,https://images.pokemontcg.io/swsh10/148.png,$0.03,True,swsh10-148
+Magma Basin,swsh9,144,Stadium,,https://images.pokemontcg.io/swsh9/144.png,$0.06,True,swsh9-144
+Mesagoza,sv1,178,Stadium,,https://images.pokemontcg.io/sv1/178.png,$0.09,True,sv1-178
+Old Cemetery,swsh6,147,Stadium,,https://images.pokemontcg.io/swsh6/147.png,$0.09,True,swsh6-147
+Rose Tower,DAA,169,Stadium,,https://images.pokemontcg.io/swsh3/169.png,$0.09,True,swsh3-169
+Shrine of Memories,PRC,139,Stadium,,https://images.pokemontcg.io/xy5/139.png,$0.22,True,xy5-139
+Town Store,sv3,196,Stadium,,https://images.pokemontcg.io/sv3/196.png,$0.18,True,sv3-196
+Tropical Beach,PR-BLW,BW28,Stadium,,https://images.pokemontcg.io/bwp/BW28.png,$99.98,True,bwp-BW28
+Viridian Forest,TEU,156,Stadium,,https://images.pokemontcg.io/sm9/156.png,$0.25,True,sm9-156
+Air Balloon,SSH,156,Pokémon Tool,,https://images.pokemontcg.io/swsh1/156.png,$0.1,True,swsh1-156
+Bench Shield,AR,83,Pokémon Tool,,https://images.pokemontcg.io/pl4/83.png,$0.15,True,pl4-83
+Big Air Balloon,sv3pt5,155,Pokémon Tool,,https://images.pokemontcg.io/sv3pt5/155.png,$0.05,True,sv3pt5-155
+Big Charm,SSH,158,Pokémon Tool,,https://images.pokemontcg.io/swsh1/158.png,$0.1,True,swsh1-158
+Counter Gain,sv8,169,Pokémon Tool,,https://images.pokemontcg.io/sv8/169.png,$0.19,True,sv8-169
+Defiance Band,sv1,169,Pokémon Tool,,https://images.pokemontcg.io/sv1/169.png,$0.14,True,sv1-169
+Defiance Vest,sv4,162,Pokémon Tool,,https://images.pokemontcg.io/sv4/162.png,$0.05,True,sv4-162
+Exp. Share,sv1,174,Pokémon Tool,,https://images.pokemontcg.io/sv1/174.png,$0.08,True,sv1-174
+Focus Band,NG,86,Pokémon Tool,,https://images.pokemontcg.io/neo1/86.png,$8.26,True,neo1-86
+Giant Bomb,UNM,196,Pokémon Tool,,https://images.pokemontcg.io/sm11/196.png,$0.15,True,sm11-196
+Lucky Egg,SSH,167,Pokémon Tool,,https://images.pokemontcg.io/swsh1/167.png,$0.08,True,swsh1-167
+Lucky Helmet,sv6,158,Pokémon Tool,,https://images.pokemontcg.io/sv6/158.png,$0.04,True,sv6-158
+Luxurious Cape,sv4,166,Pokémon Tool,,https://images.pokemontcg.io/sv4/166.png,$0.08,True,sv4-166
+Memory Capsule,VIV,155,Pokémon Tool,,https://images.pokemontcg.io/swsh4/155.png,$0.09,True,swsh4-155
+Metal Core Barrier,UNB,180,Pokémon Tool,,https://images.pokemontcg.io/sm10/180.png,$0.12,True,sm10-180
+Muscle Band,XY,121,Pokémon Tool,,https://images.pokemontcg.io/xy1/121.png,$3.6,True,xy1-121
+Pot Helmet,swsh9,146,Pokémon Tool,,https://images.pokemontcg.io/swsh9/146.png,$0.05,True,swsh9-146
+Rescue Board,sv5,159,Pokémon Tool,,https://images.pokemontcg.io/sv5/159.png,$0.17,True,sv5-159
+Rescue Scarf,DRX,115,Pokémon Tool,,https://images.pokemontcg.io/bw6/115.png,$0.94,True,bw6-115
+Spell Tag,LOT,190,Pokémon Tool,,https://images.pokemontcg.io/sm8/190.png,$0.42,True,sm8-190
+Technical Machine: Blindside,sv4,176,Pokémon Tool,,https://images.pokemontcg.io/sv4/176.png,$0.04,True,sv4-176
+Technical Machine: Devolution,sv4,177,Pokémon Tool,,https://images.pokemontcg.io/sv4/177.png,$0.14,True,sv4-177
+Technical Machine: Evolution,sv4,178,Pokémon Tool,,https://images.pokemontcg.io/sv4/178.png,$0.31,True,sv4-178
+Technical Machine: Turbo Energize,sv4,179,Pokémon Tool,,https://images.pokemontcg.io/sv4/179.png,$0.12,True,sv4-179
+U-Turn Board,UNM,211,Pokémon Tool,,https://images.pokemontcg.io/sm11/211.png,$3.45,True,sm11-211
+Vitality Band,SSH,185,Pokémon Tool,,https://images.pokemontcg.io/swsh1/185.png,$0.09,True,swsh1-185
+Capture Energy,RCL,171,Special,,https://images.pokemontcg.io/swsh2/171.png,$0.13,True,swsh2-171
+Coating Metal Energy,VIV,163,Special,,https://images.pokemontcg.io/swsh4/163.png,$0.09,True,swsh4-163
+Counter Energy,CIN,100,Special,,https://images.pokemontcg.io/sm4/100.png,$0.4,True,sm4-100
+Double Colorless Energy,SUM,136,Special,,https://images.pokemontcg.io/sm1/136.png,$0.46,True,sm1-136
+Double Dragon Energy,ROS,97,Special,,https://images.pokemontcg.io/xy6/97.png,$3.37,True,xy6-97
+Draw Energy,CEC,209,Special,,https://images.pokemontcg.io/sm12/209.png,$0.21,True,sm12-209
+Gift Energy,swsh11,171,Special,,https://images.pokemontcg.io/swsh11/171.png,$0.16,True,swsh11-171
+Heat Fire Energy,DAA,174,Special,,https://images.pokemontcg.io/swsh3/174.png,$0.17,True,swsh3-174
+Herbal Energy,FFI,103,Special,,https://images.pokemontcg.io/xy3/103.png,$1.04,True,xy3-103
+Hiding Darkness Energy,DAA,175,Special,,https://images.pokemontcg.io/swsh3/175.png,$0.16,True,swsh3-175
+Horror Psychic Energy,RCL,172,Special,,https://images.pokemontcg.io/swsh2/172.png,$0.34,True,swsh2-172
+Lucky Energy,swsh6,158,Special,,https://images.pokemontcg.io/swsh6/158.png,$0.08,True,swsh6-158
+Memory Energy,LOT,194,Special,,https://images.pokemontcg.io/sm8/194.png,$0.26,True,sm8-194
+Powerful Colorless Energy,DAA,176,Special,,https://images.pokemontcg.io/swsh3/176.png,$0.15,True,swsh3-176
+Rainbow Energy,CES,151,Special,,https://images.pokemontcg.io/sm7/151.png,$0.46,True,sm7-151
+Reversal Energy,sv2,192,Special,,https://images.pokemontcg.io/sv2/192.png,$0.2,True,sv2-192
+Speed Lightning Energy,RCL,173,Special,,https://images.pokemontcg.io/swsh2/173.png,$0.23,True,swsh2-173
+Splash Energy,BKP,113,Special,,https://images.pokemontcg.io/xy9/113.png,$0.79,True,xy9-113
+Stone Fighting Energy,VIV,164,Special,,https://images.pokemontcg.io/swsh4/164.png,$0.08,True,swsh4-164
+Basic Darkness Energy,sve,7,Basic,,https://images.pokemontcg.io/sve/7.png,$0,True,sve-7
+Basic Fighting Energy,sve,6,Basic,,https://images.pokemontcg.io/sve/6.png,$0,True,sve-6
+Basic Fire Energy,sve,2,Basic,,https://images.pokemontcg.io/sve/2.png,$0,True,sve-2
+Basic Grass Energy,sve,1,Basic,,https://images.pokemontcg.io/sve/1.png,$0,True,sve-1
+Basic Lightning Energy,sve,4,Basic,,https://images.pokemontcg.io/sve/4.png,$0,True,sve-4
+Basic Metal Energy,sve,8,Basic,,https://images.pokemontcg.io/sve/8.png,$0,True,sve-8
+Basic Psychic Energy,sve,5,Basic,,https://images.pokemontcg.io/sve/5.png,$0,True,sve-5
+Basic Water Energy,sve,3,Basic,,https://images.pokemontcg.io/sve/3.png,$0,True,sve-3
