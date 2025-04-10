@@ -52,7 +52,7 @@ class PolaTool():
 
         self.gemini_model = gemini_model
 
-    def classify_trainers(self, cards:list[Card]):
+    def classify_trainers(self, cards:list[Card], batch_size:int=25):
         """ Given a list of trainer cards from the PokemonTCG SDK, returns a list of classifications of those trainers"""
         card_texts = []
 
@@ -67,61 +67,66 @@ class PolaTool():
                 card_text = " ".join(card.rules[:-1])
             card_texts.append(card_text)
 
-        prompt = PromptTemplate.from_template("""
-            You are a Pokemon TCG expert and further an expert at designing Pokemon TCG cubes. Given a list of effect texts of a Trainer cards, classify each of them as either
-                                
-            1. **Utility** - cards that provide specific situational value and do not provided any boost to a decks consistency.
-            2. **Concistency** - cards that improve the chances of executing a strategy. Most consistency cards will draw you more cards, search your deck for a card, or let you select from a few. Consistency is further classified into:
-                - **Draw**: cards that draw more cards.
-                - **Search**: cards that let you search your deck for other cards.
-                - **Pick**: cards that offer choices (e.g., look at X cards, choose one).
-            3. **Both** - cards that provide specific situational value and also provide a consistency boost for a deck. These cards can also be further broken down using the same subtypes as concistency.
+        # split into batches
+        batches = [card_texts[i:i + batch_size] for i in range(0, len(card_texts), batch_size)]
+        
+        results = []
+        for batch in batches:
+            #results.append(batch)
+            prompt = PromptTemplate.from_template("""
+                You are a Pokemon TCG expert and further an expert at designing Pokemon TCG cubes. Given a list of effect texts of a Trainer cards, classify each of them as either
+                                    
+                1. **Utility** - cards that provide specific situational value and do not provided any boost to a decks consistency.
+                2. **Concistency** - cards that improve the chances of executing a strategy. Most consistency cards will draw you more cards, search your deck for a card, or let you select from a few. Consistency is further classified into:
+                    - **Draw**: cards that draw more cards.
+                    - **Search**: cards that let you search your deck for other cards.
+                    - **Pick**: cards that offer choices (e.g., look at X cards, choose one).
+                3. **Both** - cards that provide specific situational value and also provide a consistency boost for a deck. These cards can also be further broken down using the same subtypes as concistency.
 
-            ### Examples:
-            Card Text: "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
-            Output: "category": "Consistency", "subtype": "Search"
+                ## Examples:
+                Card Text: "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+                Output: "category": "Consistency", "subtype": "Search"
 
-            Card Text: "Draw 3 cards."
-            Output: "category": "Consistency", "subtype": "Draw"
-                                            
-            Card Text: "Discard your hand and draw 7 cards."
-            Output: "category": "Consistency", "subtype": "Draw"
+                Card Text: "Draw 3 cards."
+                Output: "category": "Consistency", "subtype": "Draw"
+                                                
+                Card Text: "Discard your hand and draw 7 cards."
+                Output: "category": "Consistency", "subtype": "Draw"
 
-            Card Text: "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back."
-            Output: "category": "Consistency", "subtype": "Pick"
+                Card Text: "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back."
+                Output: "category": "Consistency", "subtype": "Pick"
 
-            Card Text: "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
-            Output: "category": "Utility", "subtype": null
+                Card Text: "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+                Output: "category": "Utility", "subtype": null
 
-            Card Text: "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Then, shuffle your deck."
-            Output: "category": "Consistency", "subtype": "Search"
-                                            
-            Card Text: "Until the end of your opponent's next turn, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities. (This includes cards that come into play on that turn.)"
-            Output: "category": "Utility", "subtype": "null"       
+                Card Text: "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Then, shuffle your deck."
+                Output: "category": "Consistency", "subtype": "Search"
+                                                
+                Card Text: "Until the end of your opponent's next turn, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities. (This includes cards that come into play on that turn.)"
+                Output: "category": "Utility", "subtype": "null"       
 
-            Card Text: "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon."   
-            Output: "category: "Both", "subtype": "Draw"
+                Card Text: "Choose 1: • Discard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand. • Switch 1 of your opponent's Benched Pokémon V with their Active Pokémon."   
+                Output: "category: "Both", "subtype": "Draw"
 
-            Card Text: "Draw 3 cards. Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
-            Output: "category: "Both", "subtype": "Draw"
+                Card Text: "Draw 3 cards. Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+                Output: "category: "Both", "subtype": "Draw"
 
-            ### Now classify the following list:       
-            Card Text: "{card_texts}"
-                                
-            Return a list of json object like this:
-            "category": "Utility" or "Consistency", "subtype": "Draw" or "Search" or "Pick" or null
-            """
-        )
+                ## Now classify the following list:       
+                Card Text: "{card_texts}"
+                                    
+                Return a list of json object like this:
+                "category": "Utility" or "Consistency", "subtype": "Draw" or "Search" or "Pick" or null
+                """
+            )
 
+            llm = ChatGoogleGenerativeAI(google_api_key=self.gemini_api_key, model=self.gemini_model, temperature=0.3)
+            classification_chain = LLMChain(
+                llm=llm,
+                prompt=prompt,
+                output_parser=CardClassificationOutputParser()
+            )
 
-        llm = ChatGoogleGenerativeAI(google_api_key=self.gemini_api_key, model=self.gemini_model, temperature=0.3)
-        classification_chain = LLMChain(
-            llm=llm,
-            prompt=prompt,
-            output_parser=CardClassificationOutputParser()
-        )
+            result = classification_chain.run(card_texts=batch)
+            results.extend(result)
 
-
-        result = classification_chain.run(card_texts=card_texts)
-
-        return result
+        return results
